@@ -1,0 +1,36 @@
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.csproj.AssemblyReference.cache
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.Form1.resources
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.csproj.GenerateResource.cache
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.AssemblyInfoInputs.cache
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.AssemblyInfo.cs
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.csproj.CoreCompileInputs.cache
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\bin\Debug\net7.0-windows\CaluladoraEquacao2Grau.exe
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\bin\Debug\net7.0-windows\CaluladoraEquacao2Grau.deps.json
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\bin\Debug\net7.0-windows\CaluladoraEquacao2Grau.runtimeconfig.json
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\bin\Debug\net7.0-windows\CaluladoraEquacao2Grau.dll
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\bin\Debug\net7.0-windows\CaluladoraEquacao2Grau.pdb
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.Properties.Resources.resources
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.dll
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\refint\CaluladoraEquacao2Grau.dll
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.pdb
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.genruntimeconfig.cache
+F:\Ivo Andearson Santos Sepulcro\CaluladoraEquacao2Grau\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\ref\CaluladoraEquacao2Grau.dll
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\bin\Debug\net7.0-windows\CaluladoraEquacao2Grau.exe
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\bin\Debug\net7.0-windows\CaluladoraEquacao2Grau.deps.json
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\bin\Debug\net7.0-windows\CaluladoraEquacao2Grau.runtimeconfig.json
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\bin\Debug\net7.0-windows\CaluladoraEquacao2Grau.dll
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\bin\Debug\net7.0-windows\CaluladoraEquacao2Grau.pdb
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.Form1.resources
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.Properties.Resources.resources
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.csproj.GenerateResource.cache
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.dll
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\refint\CaluladoraEquacao2Grau.dll
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.pdb
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\CaluladoraEquacao2Grau.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21103949\Downloads\Bruno e Ivo\CaluladoraEquacao2Grau\obj\Debug\net7.0-windows\ref\CaluladoraEquacao2Grau.dll
